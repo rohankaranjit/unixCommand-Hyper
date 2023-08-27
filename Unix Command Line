@@ -1,0 +1,23 @@
+Unix Commands ::
+
+Shows lists = ls 
+
+Change directory = cd 
+For eg : Documents/Learn/languages/
+
+Go backward directory = cd .. 
+
+Make a folder named Rohan = mkdir Rohan 
+
+New File = touch Text.txt
+Open file = open Text.txt
+
+Application used to open = start atom Text.txt
+
+To delete the files = rm Text.txt
+
+To delete all = rm *
+
+To know entire path = pwd
+
+To remove present directory = rm -r Rohan/
